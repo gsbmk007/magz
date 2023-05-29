@@ -1,0 +1,9 @@
+Light: (100, 100), on
+Wait: 2
+Light: (100, 100), off
+Light: (200, 200), on
+Wait: 1
+Light: (200, 200), off
+Smoke: emit
+Wait: 3
+Smoke: clear
